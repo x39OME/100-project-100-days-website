@@ -30,11 +30,11 @@
   margin-top: 20px;
 }
 .header .container .countdown-container small{
-  font-size: 20px;
+  font-size: 11px;
 }
 .header #text{
   position: relative;
-  font-size: 50px;
+  font-size: 29px;
   text-align: center;
   transition: .3s;
   padding-top: 150px;
