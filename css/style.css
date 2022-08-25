@@ -224,7 +224,7 @@ footer .date{
 /* Media*/
 @media(max-width:767px){
   .header{
-    height:60vh
+    height: 60vh;
   }
   .header #text{
     font-size: 24px;
