@@ -1,4 +1,4 @@
-// Time
+// Countdown
 
 const body = document.body;
 const endTime = new Date('9 13 2022 23:59:59');
@@ -22,11 +22,14 @@ function updateCountdown() {
 	secondsEl.innerHTML = seconds < 10 ? '0'+seconds : seconds;
 }
 
-// Data 
-const time = new Date();
-document.getElementById("date").innerHTML = time;
-// scroll To Top
 
+// Time & Date
+setInterval(function(){
+document.getElementById('date').innerHTML = Date();
+},1000);
+
+
+// scroll To Top
 let scrollTop = document.querySelector('.scrollTop');
 
 window.onscroll = function (){
