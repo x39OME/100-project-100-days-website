@@ -3,9 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Aboreto', cursive;
 }
-
 .header{
   position: relative;
   width: 100%;
@@ -14,6 +12,8 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  font-family: 'Aboreto', cursive;
+
 }
 .header .container{
   display: flex;
@@ -30,11 +30,11 @@
   margin-top: 20px;
 }
 .header .container .countdown-container small{
-  font-size: 11px;
+  font-size: 16px;
 }
 .header #text{
   position: relative;
-  font-size: 29px;
+  font-size: 50px;
   text-align: center;
   transition: .3s;
   padding-top: 150px;
@@ -54,40 +54,52 @@
   max-width: 100%;
   animation: animate calc(10s * var(--i)) linear infinite;
 }
-@keyframes animate{
-  0%{
-    transform: translateX(-100%);
-  }
-
-  100%{
-    transform: translateX(100%);
-  }
-}
-
 /* Start My Projects*/
-
 section{
   position: relative;
-  padding: 75px 100px;
+  padding: 50px;
 }
 section h2{
   position: relative;
   font-size: 2.5em;
-  margin-bottom: 20px;
+  margin:50px 0;
+  text-align: center;
+  font-family: 'Aboreto', cursive;
 }
-
 section .projects{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 30px;
 }
 section .projects .box{
+  position: relative;
   box-shadow: 
   0 2px 15px rgba( 0 0 0 / 20%),
   0 -2px 15px rgba( 0 0 0 / 20%);
   background: #fff;
   border-radius: 4px;
   overflow: hidden;
+  transition: .3s;
+}
+section .projects .box:hover{
+  box-shadow: 
+  0 2px 15px rgba( 0 0 0 / 30%),
+  0 -2px 15px rgba( 0 0 0 / 30%);
+  transform: scale(1.1);
+}
+section .projects .box::after{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  width: 0;
+  background-color: rgba(0, 0, 0, .6);
+  border-radius: 4px;
+  transition: .5s;
+}
+section .projects .box:hover:after{
+  width: 100%;
 }
 section .projects .box img{
   width: 100%;
@@ -99,6 +111,7 @@ section .projects .box .content{
 }
 section .projects .box .content h3{
   margin: 0;
+  font-family: 'Aboreto', cursive;
 }
 section .projects .box .content p{
   color: #777;
@@ -112,19 +125,52 @@ section .projects .box .info{
   padding: 20px;
   border-top: 1px solid #e6e6e7;
 }
-
-
-
-
-
-
-
-
-
-
-
-/* Footer*/
-
+section .projects .box .info .live-demo{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  color:rgba( 0 0 0 / 50%);
+  font-size: 14px;
+  transition: .3s;
+}
+section .projects .box .info .live-demo:hover{
+  gap: 30px;
+  color:rgba( 0 0 0 / 30%);
+}
+section .projects .box .info .live-demo::before{
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  height: 1px;
+  width: 0;
+  background:rgba( 0 0 0 / 30%);
+  transition: .3s;
+}
+section .projects .box .info .live-demo:hover:before{
+  width: 65px;
+}
+section .projects .box .info .source{
+  font-size: 24px;
+  border-radius: 50%;
+  padding: 3px 6px;
+  background: #fff;
+  box-shadow: 
+  1px 1px 10px rgba(0, 0, 0, .1),
+  -1px -1px 10px rgba(0, 0, 0, .1);
+  transition: .3s;
+}
+section .projects .box .info .source:hover{
+  transform: scale(1.1);
+  box-shadow: 
+  2px 2px 12px rgba(0, 0, 0, .2),
+  -2px -2px 12px rgba(0, 0, 0, .2);
+}
+/* End My Projects*/
+/* Start Footer */
 footer{
   display: flex;
   justify-content: space-between;
@@ -135,6 +181,9 @@ footer{
 }
 footer .copyright{
   color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 footer .media ul{
   display: flex;
@@ -156,16 +205,45 @@ footer .media ul li a:hover{
   background: #000;
   color: #fff;
 }
+footer #date{
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+/* End Footer */
+
+/* Animataion */
+@keyframes animate{
+  0%{
+    transform: translateX(-100%);
+  }
+
+  100%{
+    transform: translateX(100%);
+  }
+}
+/* Media*/
 @media(max-width:767px){
+  .header #text{
+    font-size: 24px;
+  }
+  .header .container .countdown-container{
+    font-size: 19px;
+  }
+  .header .container .countdown-container small{
+    font-size: 11px;
+  }
+  section h2{
+    font-size:24px ;
+  }
   footer{
     flex-direction: column;
     gap: 30px;
     font-size: 15px;
   }
 }
-
 /* Scroll to Top */
-
 .scrollTop{
   position: fixed;
   bottom: 70px;
@@ -179,7 +257,7 @@ footer .media ul li a:hover{
   cursor: pointer;
 }
 .scrollTop.show{
-  right: 20px;
+  right: 10px;
 }
 .scrollTop:hover{
   background: #000;
