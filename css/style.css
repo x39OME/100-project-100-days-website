@@ -205,20 +205,18 @@ footer .media ul li a:hover{
   background: #000;
   color: #fff;
 }
-footer #date{
+footer .date{
   color: #fff;
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
 }
 /* End Footer */
-
 /* Animataion */
 @keyframes animate{
   0%{
     transform: translateX(-100%);
   }
-
   100%{
     transform: translateX(100%);
   }
