@@ -1,3 +1,11 @@
+// Toggle Menu
+function menuToggle(){
+	const menuToggle = document.getElementById('menuToggle');
+	const navigation = document.getElementById('navigation');
+	menuToggle.classList.toggle('active');
+	navigation.classList.toggle('active');
+};
+
 // Countdown
 
 const body = document.body;
@@ -20,14 +28,12 @@ function updateCountdown() {
 	hoursEl.innerHTML = hours < 10 ? '0'+hours : hours;
 	minutesEl.innerHTML = minutes < 10 ? '0'+minutes : minutes;
 	secondsEl.innerHTML = seconds < 10 ? '0'+seconds : seconds;
-}
+};
 
-
-// Time & Date
+// Time & Date (Footer)
 setInterval(function(){
 document.getElementById('date').innerHTML = Date();
 },1000);
-
 
 // scroll To Top
 let scrollTop = document.querySelector('.scrollTop');
