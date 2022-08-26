@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  transition: .3s;
 }
 .header{
   position: relative;
@@ -13,8 +14,88 @@
   background-position: center;
   background-repeat: no-repeat;
   font-family: 'Aboreto', cursive;
-
 }
+/* Start Navigation */
+.header .nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #000;
+  color: #fff;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  z-index: 999;
+}
+.header .nav p{
+  align-self: center;
+}
+.header .nav #menuToggle{
+  display: none;
+}
+.header .nav #navigation{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+.header .nav #navigation li{
+  position: relative;
+  cursor: pointer;
+}
+.header .nav #navigation li::before{
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  height: 1px;
+  width: 0;
+  background-color: #fff;
+  transition: .3s;
+}
+.header .nav #navigation li:hover:before{
+  width: 100%;
+}
+.header .nav #navigation li a{
+  text-decoration: none;
+  color: #fff;
+  transition: .3s;
+}
+@media(max-width:767px){
+  .header .nav #navigation{
+    position: absolute;
+    overflow: hidden;
+    top: 50px;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    background: #000;
+    width: 100%;
+    height: 0;
+    transition: .3s;
+  }
+  .header .nav #navigation.active{
+    height: 250px;
+    padding-top: 50px;
+  }
+  .header .nav #menuToggle{
+    display: block;
+    position: absolute;
+    right: 20px;
+    top:5px;
+    font-size: 24px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: .3s;
+  }
+  .header .nav #menuToggle:hover{
+    border-radius: 5px;
+    border: 2px solid rgba(255 255 255 / 60%);
+  }
+}
+/* End Navigation */
 .header .container{
   display: flex;
   flex-direction: column;
@@ -133,8 +214,9 @@ section .projects .box .info .live-demo{
   gap: 10px;
   cursor: pointer;
   color:rgba( 0 0 0 / 50%);
-  font-size: 14px;
+  font-size: 11px;
   transition: .3s;
+  text-transform: uppercase;
 }
 section .projects .box .info .live-demo:hover{
   gap: 30px;
