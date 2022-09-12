@@ -4,7 +4,7 @@
 
 - Uesing Html\Css & Javascript
 - This is the main repository for all of the projects
-- [Info Website](https://x39ome.github.io/100_Project_100_days/)
+- [Website Info](https://x39ome.github.io/100_Project_100_days/)
 
 ![This is an image](blob:moz-extension://7eaec926-b8c3-4e3f-ae0a-89af025d185f/84cd5150-2251-41d9-ba80-e180e54c59af)
 
