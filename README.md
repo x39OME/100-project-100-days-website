@@ -1,4 +1,4 @@
-# 100 Projects In 100 Days Uesing HTML\CSS & Java Script
+# 100 Projects In 100 Days Uesing HTML\CSS & Javascript
 
 > ## **100_Project_100_days**
 
