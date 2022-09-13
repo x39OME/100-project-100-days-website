@@ -9,7 +9,7 @@ function menuToggle(){
 // Countdown
 
 const body = document.body;
-const endTime = new Date('9 13 2022 23:59:59');
+const endTime = new Date('9 16 2022 23:59:59');
 const daysEl = document.getElementById('days');
 const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
