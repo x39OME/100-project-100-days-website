@@ -11,7 +11,7 @@
 
 | Days | Projects | Live Demo |
 | ------------- | ------------- | ------------- |
-|`01`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`01`| Calculator | [Live Demo](https://x39ome.github.io/calculator_using_Vanilla/)|
 |`02`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`03`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`04`| Content Cell | [Live Demo](https://pages.github.com/)|
