@@ -109,6 +109,7 @@
   gap: 20px;
   font-size: 30px;
   margin-top: 20px;
+  animation: opc 1s linear infinite;
 }
 .header .container .countdown-container small{
   font-size: 16px;
@@ -133,7 +134,7 @@
   position: absolute;
   bottom: 0;
   max-width: 100%;
-  animation: animate calc(10s * var(--i)) linear infinite;
+  animation: animate calc(5s * var(--i)) alternate infinite;
 }
 /* Start My Projects*/
 section{
@@ -184,7 +185,6 @@ section .projects .box:hover:after{
 }
 section .projects .box img{
   width: 100%;
-  max-width: 100%;
   height: 200px;
 }
 section .projects .box .content{
@@ -217,6 +217,7 @@ section .projects .box .info .live-demo{
   font-size: 11px;
   transition: .3s;
   text-transform: uppercase;
+  text-decoration: none;
 }
 section .projects .box .info .live-demo:hover{
   gap: 30px;
@@ -297,10 +298,18 @@ footer .date{
 /* Animataion */
 @keyframes animate{
   0%{
-    transform: translateX(-100%);
+    transform: scale(1);
   }
   100%{
-    transform: translateX(100%);
+    transform:scale(3);
+  }
+}
+@keyframes opc{
+  0%, 100%{
+    opacity: 1;
+  }
+  50%{
+    opacity: 0;
   }
 }
 /* Media*/
