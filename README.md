@@ -11,7 +11,7 @@
 
 | Days | Projects | Live Demo |
 | ------------- | ------------- | ------------- |
-|[`01`](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/1-%20saudi_founding_day)| saudi_founding_day | [Live Demo](https://x39ome.github.io/Saudi Founding Day/)|
+|[`01`](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/1-%20saudi_founding_day)| Saudi Founding Day | [Live Demo](https://x39ome.github.io/saudi_founding_day/)|
 |`02`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`03`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`04`| Content Cell | [Live Demo](https://pages.github.com/)|
