@@ -74,7 +74,7 @@ body::after{
 }
 .container .calculator span:hover{
   transition: 0s;
-  background: rgba(255, 255, 255, .05);
+  background: rgba(255, 255, 255, .3);
 }
 .container .calculator span:active{
   background-image: linear-gradient(to right, #845ec2, #965dc0, #a75dbe, #b75cbb, #c55cb7, #d05cb3, #da5dae, #e35fa9, #ec62a3, #f3659d, #fa6a97, #ff6f91);  color: #192f00;
