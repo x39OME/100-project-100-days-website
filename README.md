@@ -3,7 +3,7 @@
 - This is the main repository for all of the projects
 - 100 Days 100 Projects
 - Using Html\Css & Javascript
-- [Website Info](https://x39ome.github.io/100_Project_100_days/)
+- [Website Info](https://x39ome.github.io/100_project_100_days/)
 
 ![This main img](https://raw.githubusercontent.com/x39OME/100_project_100_days/main/img/main.jpg)
 
