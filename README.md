@@ -10,7 +10,7 @@
 
 | Days | Projects | Live Demo |
 | ------------- | ------------- | ------------- |
-|`01`| [Saudi Founding Day](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/1-%20saudi_founding_day) | [Live Demo](https://saudi-founding-days.netlify.app/) |
+|`01`| [Saudi Founding Day](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/1-saudi_founding_day) | [Live Demo](https://saudi-founding-days.netlify.app/) |
 |`02`| [Calculator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/2-calculator_using_vanilla_css_glassmorphism_effects) | [Live Demo](https://calculator-vanilla-glassmorph.netlify.app/)|
 |`03`| [Dynamic Calendar](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/3-javascript-dynamic-calendar-css-glassmorphism-ui-design) | [Live Demo](https://dynamic-calendar-js.netlify.app/)|
 |`04`| Content Cell | [Live Demo](https://pages.github.com/)|
