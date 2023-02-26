@@ -14,7 +14,7 @@
 |`02`| [Calculator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/2-calculator_using_vanilla_css_glassmorphism_effects) | [Live Demo](https://calculator-vanilla-glassmorph.netlify.app/)|
 |`03`| [Dynamic Calendar](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/3-javascript-dynamic-calendar-css-glassmorphism-ui-design) | [Live Demo](https://dynamic-calendar-js.netlify.app/)|
 |`04`| [Clock Design](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/4-clock-ui-design) | [Live Demo](https://clock-ui-design.netlify.app/)|
-|`05`| [Circular Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/5-animated-circular-navigation-menu) | [Live Demo](https://animated-circlar-nav.netlify.app/)|
+|`05`| [Circular Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/5-animated-circular-navigation-menu) | [Live Demo](https://animated-circular-nav.netlify.app/)|
 |`06`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`07`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`08`| Content Cell | [Live Demo](https://pages.github.com/)|
