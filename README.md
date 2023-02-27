@@ -15,7 +15,7 @@
 |`03`| [Dynamic Calendar](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/3-javascript-dynamic-calendar-css-glassmorphism-ui-design) | [Live Demo](https://dynamic-calendar-js.netlify.app/)|
 |`04`| [Clock Design](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/4-clock-ui-design) | [Live Demo](https://clock-ui-design.netlify.app/)|
 |`05`| [Circular Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/5-animated-circular-navigation-menu) | [Live Demo](https://animated-circular-nav.netlify.app/)|
-|`06`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`06`| [Glassmorphism Hover Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/6-Glassmorphism%20Hover%20Effects%20with%20Magic%20Line%20Indicator) | [Live Demo](https://hover-effects-magic.netlify.app/)|
 |`07`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`08`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`09`| Content Cell | [Live Demo](https://pages.github.com/)|
