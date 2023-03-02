@@ -18,7 +18,7 @@
 |`06`| [Glassmorphism Hover Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/6-Glassmorphism%20Hover%20Effects%20with%20Magic%20Line%20Indicator) | [Live Demo](https://hover-effects-magic.netlify.app/)|
 |`07`| [Animated Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/7-animated-menu) | [Live Demo](https://animated-menu-using-css-html-js.netlify.app/)|
 |`08`| [Dark & Light Theme](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/8-light-%26-dark-theme-toggle) | [Live Demo](https://codepen.io/x39OME/pen/BaOWjPy)|
-|`09`| [Auto Write Text](https://auto-write-text.netlify.app/) | [Live Demo](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/9-javaScript-auto-write-text)|
+|`09`| [Auto Write Text](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/9-javaScript-auto-write-text) | [Live Demo](https://auto-write-text.netlify.app/)|
 |`10`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`11`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`12`| Content Cell | [Live Demo](https://pages.github.com/)|
