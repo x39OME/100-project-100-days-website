@@ -4,7 +4,6 @@
 - 100 Days 100 Projects
 - Using HTML\CSS & Javascript
 - [Website Info](https://x39ome.github.io/100_project_100_days/)
-- [100 Mini Projects](https://github.com/x39OME/100_mini_projects)
 
 ![This main img](https://raw.githubusercontent.com/x39OME/100_project_100_days/main/img/main.jpg)
 
