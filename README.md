@@ -11,11 +11,11 @@
 
 | Days | Projects | Live Demo |
 | ------------- | ------------- | ------------- |
-|`01`| [Saudi Founding Day](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/1-saudi_founding_day) | [Live Demo](https://saudi-founding-days.netlify.app/) |
-|`02`| [Calculator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/2-calculator_using_vanilla_css_glassmorphism_effects) | [Live Demo](https://calculator-vanilla-glassmorph.netlify.app/)|
-|`03`| [Dynamic Calendar](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/3-javascript-dynamic-calendar-css-glassmorphism-ui-design) | [Live Demo](https://dynamic-calendar-js.netlify.app/)|
-|`04`| [Clock Design](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/4-clock-ui-design) | [Live Demo](https://clock-ui-design.netlify.app/)|
-|`05`| [Circular Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/5-animated-circular-navigation-menu) | [Live Demo](https://animated-circular-nav.netlify.app/)|
+|`01`| [Saudi Founding Day](https://github.com/x39OME/100_mini_projects/tree/main/1-saudi_founding_day) | [Live Demo](https://saudi-founding-days.netlify.app/) |
+|`02`| [Calculator](https://github.com/x39OME/100_mini_projects/tree/main/2-calculator_using_vanilla_css_glassmorphism_effects) | [Live Demo](https://calculator-vanilla-glassmorph.netlify.app/)|
+|`03`| [Dynamic Calendar](https://github.com/x39OME/100_mini_projects/tree/main/3-javascript-dynamic-calendar-css-glassmorphism-ui-design) | [Live Demo](https://dynamic-calendar-js.netlify.app/)|
+|`04`| [Clock Design](https://github.com/x39OME/100_mini_projects/tree/main/4-clock-ui-design) | [Live Demo](https://clock-ui-design.netlify.app/)|
+|`05`| [Circular Navigation](https://github.com/x39OME/100_mini_projects/tree/main/5-animated-circular-navigation-menu) | [Live Demo](https://animated-circular-nav.netlify.app/)|
 |`06`| [Glassmorphism Hover Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/6-Glassmorphism%20Hover%20Effects%20with%20Magic%20Line%20Indicator) | [Live Demo](https://hover-effects-magic.netlify.app/)|
 |`07`| [Animated Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/7-animated-menu) | [Live Demo](https://animated-menu-using-css-html-js.netlify.app/)|
 |`08`| [Dark & Light Theme](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/8-light-%26-dark-theme-toggle) | [Live Demo](https://codepen.io/x39OME/pen/BaOWjPy)|
