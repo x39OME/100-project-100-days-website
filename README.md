@@ -20,7 +20,7 @@
 |`07`| [Animated Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/7-animated-menu) | [Live Demo](https://animated-menu-using-css-html-js.netlify.app/)|
 |`08`| [Dark & Light Theme](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/8-light-%26-dark-theme-toggle) | [Live Demo](https://codepen.io/x39OME/pen/BaOWjPy)|
 |`09`| [Auto Write Text](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/9-javaScript-auto-write-text) | [Live Demo](https://auto-write-text.netlify.app/)|
-|`10`| [Animated Wavy Background](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/10-animated-wavy-background) | [Live Demo](https://animated-wavy-background-css.netlify.app/)|
+|`10`| [Animated Wavy Background](https://github.com/x39OME/100_mini_projects/tree/main/10-animated-wavy-background) | [Live Demo](https://animated-wavy-background-css.netlify.app/)|
 |`11`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`12`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`13`| Content Cell | [Live Demo](https://pages.github.com/)|
