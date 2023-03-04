@@ -6,6 +6,9 @@
 body{
   background: #E9BF8B;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .serial {
   width: 400px;
