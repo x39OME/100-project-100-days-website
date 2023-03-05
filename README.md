@@ -21,7 +21,7 @@
 |`09`| [Auto Write Text](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/9-javaScript-auto-write-text) | [Live Demo](https://auto-write-text.netlify.app/)|
 |`10`| [Animated Wavy Background](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/10-animated-wavy-background) | [Live Demo](https://animated-wavy-background-css.netlify.app/)|
 |`11`| [Generate Random Serial Number](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/11-generate-random-serial-number) | [Live Demo](https://generate-random-serial-number.netlify.app/)|
-|`12`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`12`| [Create Tabs](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/12-create-tabs) | [Live Demo](https://create-tabs-js.netlify.app/)|
 |`13`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`14`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`15`| Content Cell | [Live Demo](https://pages.github.com/)|
