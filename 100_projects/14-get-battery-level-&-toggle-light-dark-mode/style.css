@@ -29,8 +29,8 @@ section.dark::before{
 section::after{
   content:'';
   position: absolute;
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   background: linear-gradient(#ff2871,rgba(255,40, 113, .2));
   border-radius: 50%;
   transform:translate(80px, 170px)
