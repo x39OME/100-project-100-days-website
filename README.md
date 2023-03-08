@@ -24,7 +24,7 @@
 |`12`| [Create Tabs](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/12-create-tabs) | [Live Demo](https://create-tabs-js.netlify.app/)|
 |`13`| [Mix Blend Loading](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/13-mix-blend-loading) | [Live Demo](https://mix-blend-loading.netlify.app/)|
 |`14`| [Battery Level With Dark Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/14-get-battery-level-%26-toggle-light-dark-mode) | [Live Demo](https://get-battery-level-with-dark-mode.netlify.app/)|
-|`15`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`15`| [Netflix Mobile Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/15-netflix-mobile-navigation-animation) | [Live Demo](https://netflix-mobile-navigation-animation.netlify.app/)|
 |`16`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`17`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`18`| Content Cell | [Live Demo](https://pages.github.com/)|
