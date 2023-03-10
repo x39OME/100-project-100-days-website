@@ -26,7 +26,7 @@
 |`14`| [Battery Level With Dark Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/14-get-battery-level-%26-toggle-light-dark-mode) | [Live Demo](https://get-battery-level-with-dark-mode.netlify.app/)|
 |`15`| [Netflix Mobile Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/15-netflix-mobile-navigation-animation) | [Live Demo](https://netflix-mobile-navigation-animation.netlify.app/)|
 |`16`| [Creative Image Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/16-creative-image-gallery) | [Live Demo](https://creative-image-gallery.netlify.app/)|
-|`17`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`17`| [Count Input Characters](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/17-count-input-characters-fill-borders) | [Live Demo](https://count-input-characters-fill-border.netlify.app/)|
 |`18`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`19`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`20`| Content Cell | [Live Demo](https://pages.github.com/)|
