@@ -27,7 +27,7 @@
 |`15`| [Netflix Mobile Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/15-netflix-mobile-navigation-animation) | [Live Demo](https://netflix-mobile-navigation-animation.netlify.app/)|
 |`16`| [Creative Image Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/16-creative-image-gallery) | [Live Demo](https://creative-image-gallery.netlify.app/)|
 |`17`| [Count Input Characters](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/17-count-input-characters-fill-borders) | [Live Demo](https://count-input-characters-fill-border.netlify.app/)|
-|`18`| [Customize Radio Input](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/18-customize-radio-input) | [Live Demo](https://pages.github.com/)|
+|`18`| [Customize Radio Input](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/18-customize-radio-input) | [Live Demo](https://customize-radio-input.netlify.app/)|
 |`19`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`20`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`21`| Content Cell | [Live Demo](https://pages.github.com/)|
