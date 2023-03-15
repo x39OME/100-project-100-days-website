@@ -31,7 +31,7 @@
 |`19`| [Multiple Loader](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/19-multiple-dotted-loader) | [Live Demo](https://multiple-dotted-loader.netlify.app/)|
 |`20`| [Scroll To Top](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/20-scroll-to-top-button) | [Live Demo](https://scroll-to-top-button.netlify.app/)|
 |`21`| [Background Color Change](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/21-background-color-change) | [Live Demo](https://background-color-change-js.netlify.app/)|
-|`22`| [Page Transition With GSAP Animation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/22-page-transition-with-gsap-animation) | [Live Demo](https://page-transition-with-gsap-animatio.netlify.app/)|
+|`22`| [Page Transition With GSAP Animation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/22-page-transition-with-gsap-animation) | [Live Demo](https://page-transition-with-gsap-animation.netlify.app/)|
 |`23`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`24`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`25`| Content Cell | [Live Demo](https://pages.github.com/)|
