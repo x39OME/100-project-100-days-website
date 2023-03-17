@@ -33,7 +33,7 @@
 |`21`| [Background Color Change](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/21-background-color-change) | [Live Demo](https://background-color-change-js.netlify.app/)|
 |`22`| [Page Transition With GSAP Animation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/22-page-transition-with-gsap-animation) | [Live Demo](https://page-transition-with-gsap-animation.netlify.app/)|
 |`23`| [Clip Path Image Hover](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/23-clip-path-image-hover-effects)| [Live Demo](https://clip-path-image-hover-effects.netlify.app/)|
-|`24`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`24`| [Full Screen Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/24-fullscreen-navigation) | [Live Demo](https://fullscreen-navigation-js.netlify.app/)|
 |`25`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`26`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`27`| Content Cell | [Live Demo](https://pages.github.com/)|
