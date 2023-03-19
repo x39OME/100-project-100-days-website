@@ -35,7 +35,7 @@
 |`23`| [Clip Path Image Hover](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/23-clip-path-image-hover-effects)| [Live Demo](https://clip-path-image-hover-effects.netlify.app/)|
 |`24`| [Full Screen Navigation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/24-fullscreen-navigation) | [Live Demo](https://fullscreen-navigation-js.netlify.app/)|
 |`25`| [Dropdown Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/25-dropdown-menu) | [Live Demo](https://dropdown-menu-js.netlify.app/)|
-|`26`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`26`| [Magic Navigation Menu Indicator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/26-magic-navigation-menu-indicator) | [Live Demo](https://magic-navigation-menu-indicator.netlify.app/)|
 |`27`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`28`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`29`| Content Cell | [Live Demo](https://pages.github.com/)|
