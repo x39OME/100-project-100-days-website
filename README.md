@@ -38,7 +38,7 @@
 |`26`| [Magic Navigation Menu Indicator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/26-magic-navigation-menu-indicator) | [Live Demo](https://magic-navigation-menu-indicator.netlify.app/)|
 |`27`| [Fill Element Background From Other Element](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/27-fill-element-background-from-other) | [Live Demo](https://fill-element-background-from-other.netlify.app/)|
 |`28`| [Show Random Image Every x Second](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/28-show-random-image-every-x-second) | [Live Demo](https://show-random-image-every-x-second.netlify.app/)|
-|`29`| [https://github.com/x39OME/100_project_100_days/tree/main/100_projects/29-glassmorphism-login-form](Glassmorphism Login Form) | [Live Demo](https://glassmorphism-login-form-css.netlify.app/)|
+|`29`| [Glassmorphism Login Form](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/29-glassmorphism-login-form) | [Live Demo](https://glassmorphism-login-form-css.netlify.app/)|
 |`30`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`31`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`32`| Content Cell | [Live Demo](https://pages.github.com/)|
