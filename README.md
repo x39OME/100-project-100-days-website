@@ -40,7 +40,7 @@
 |`28`| [Show Random Image Every x Second](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/28-show-random-image-every-x-second) | [Live Demo](https://show-random-image-every-x-second.netlify.app/)|
 |`29`| [Glassmorphism Login Form](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/29-glassmorphism-login-form) | [Live Demo](https://glassmorphism-login-form-css.netlify.app/)|
 |`30`| [Calculate Textarea Text While Writing](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/30-calculate-textarea-text-while-writing) | [Live Demo](https://calculate-textarea-text-while-writing.netlify.app/)|
-|`31`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`31`| [Change Colors With Local Storage](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/31-change-colors-with-local-storage) | [Live Demo](https://change-colors-with-local-storage.netlify.app/)|
 |`32`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`33`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`34`| Content Cell | [Live Demo](https://pages.github.com/)|
