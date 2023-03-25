@@ -42,7 +42,7 @@
 |`30`| [Calculate Textarea Text While Writing](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/30-calculate-textarea-text-while-writing) | [Live Demo](https://calculate-textarea-text-while-writing.netlify.app/)|
 |`31`| [Change Colors With Local Storage](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/31-change-colors-with-local-storage) | [Live Demo](https://change-colors-with-local-storage.netlify.app/)|
 |`32`| [Increase Numbers On Scrolling](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/32-increase-numbers-on-scrolling) | [Live Demo](https://increase-numbers-on-scrolling.netlify.app/)|
-|`33`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`33`| [Create Countdown Timer](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/33-create-countdown-timer) | [Live Demo](https://create-countdown-timer-js.netlify.app/)|
 |`34`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`35`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`36`| Content Cell | [Live Demo](https://pages.github.com/)|
