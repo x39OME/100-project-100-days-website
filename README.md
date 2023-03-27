@@ -44,7 +44,7 @@
 |`32`| [Increase Numbers On Scrolling](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/32-increase-numbers-on-scrolling) | [Live Demo](https://increase-numbers-on-scrolling.netlify.app/)|
 |`33`| [Create Countdown Timer](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/33-create-countdown-timer) | [Live Demo](https://create-countdown-timer-js.netlify.app/)|
 |`34`| [Animated Sidebar Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/34-animated-sidebar-menu) | [Live Demo](https://animated-sidebar-menu.netlify.app/)|
-|`35`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`35`| [Profile Card](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/35-profile-card) | [Live Demo](https://profile-card-js.netlify.app/)|
 |`36`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`37`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`38`| Content Cell | [Live Demo](https://pages.github.com/)|
