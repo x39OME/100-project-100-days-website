@@ -46,7 +46,7 @@
 |`34`| [Animated Sidebar Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/34-animated-sidebar-menu) | [Live Demo](https://animated-sidebar-menu.netlify.app/)|
 |`35`| [Profile Card](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/35-profile-card) | [Live Demo](https://profile-card-js.netlify.app/)|
 |`36`| [Create Simple Clock](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/36-create-simple-clock) | [Live Demo](https://create-simple-clock.netlify.app/)|
-|`37`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`37`| [Image Slider Using JS](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/37-image-slider) | [Live Demo](https://image-slider-using-js.netlify.app/)|
 |`38`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`39`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`40`| Content Cell | [Live Demo](https://pages.github.com/)|
