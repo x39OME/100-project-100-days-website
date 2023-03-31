@@ -7,7 +7,7 @@ body{
   background:linear-gradient(to right, #D4D3DD, #EFEFBB);
 }
 .img{
-  width: 60%;
+  width: 80%;
   height: 80vh;
   background-image: url("./img/1.jpg");
   background-position: center;
