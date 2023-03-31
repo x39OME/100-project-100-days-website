@@ -42,8 +42,8 @@ button:hover{
 .modal{
   background: #fff;
   border-radius: 5px;
-  padding: 30px 50px;
-  width:500px;
+  padding: 25px;
+  width: 300px;
   max-width: 100%;
   text-align: center;
 }
