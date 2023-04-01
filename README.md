@@ -48,7 +48,7 @@
 |`36`| [Create Simple Clock](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/36-create-simple-clock) | [Live Demo](https://create-simple-clock.netlify.app/)|
 |`37`| [Image Slider Using JS](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/37-image-slider) | [Live Demo](https://image-slider-using-js.netlify.app/)|
 |`38`| [Modal Popup Button](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/38-modal-popup-button) | [Live Demo](https://codepen.io/x39OME/pen/LYJorRX)|
-|`39`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`39`| [Custom Select Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/39-custom-select-menu) | [Live Demo](https://custom-select-menu.netlify.app/)|
 |`40`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`41`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`42`| Content Cell | [Live Demo](https://pages.github.com/)|
