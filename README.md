@@ -51,7 +51,7 @@
 |`39`| [Custom Select Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/39-custom-select-menu) | [Live Demo](https://custom-select-menu.netlify.app/)|
 |`40`| [Carousel Image Vanilla](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/40-carousel-image-vanilla-js) | [Live Demo](https://carousel-image-vanilla-js.netlify.app/)|
 |`41`| [Animated Popup Box](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/41-simple-animated-popup-box) | [Live Demo](https://simple-animated-popup-box.netlify.app/)|
-|`42`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`42`| [Alarm Clock](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/42-alarm-clock) | [Live Demo](https://alarm-clock-html-css-js.netlify.app/)|
 |`43`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`44`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`45`| Content Cell | [Live Demo](https://pages.github.com/)|
