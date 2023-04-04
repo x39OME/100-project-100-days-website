@@ -19,7 +19,7 @@ body{
   background: rgba(255, 255, 255, .1);
   box-shadow: 0 25px 45px rgba(0, 0, 0, .1);
   border: 1px solid rgba(255, 255, 255, .5);
-  padding: 50px;
+  padding: 30px;
   border-radius: 15px;
   flex-direction: column;
   margin-top: 80px;
@@ -81,6 +81,7 @@ body{
   font-size: 14px;
   transition: ease-in .1s;
   text-align: center;
+  color: #000;
 }
 .count select:hover{
   background: rgba(255, 255, 255, .5);
