@@ -132,7 +132,7 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 @media(max-width:767px){
   .header{
@@ -147,6 +147,11 @@
 .content h1{
   font-size: 5rem;
   color: #333;
+}
+@media(max-width:767px){
+  .content h1{
+    font-size: 3rem;
+  }
 }
 .content p{
   margin: 10px 0 30px;
