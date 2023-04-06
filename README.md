@@ -53,7 +53,7 @@
 |`41`| [Animated Popup Box](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/41-simple-animated-popup-box) | [Live Demo](https://simple-animated-popup-box.netlify.app/)|
 |`42`| [Alarm Clock](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/42-alarm-clock) | [Live Demo](https://alarm-clock-html-css-js.netlify.app/)|
 |`43`| [Landing Design Socially](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/43-landing-design-socially) | [Live Demo](https://landing-design-socially.netlify.app/)|
-|`44`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`44`| [Custom Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/44-custom-range-slider) | [Live Demo](https://custom-range-slider-js.netlify.app/)|
 |`45`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`46`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`47`| Content Cell | [Live Demo](https://pages.github.com/)|
