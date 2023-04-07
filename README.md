@@ -55,7 +55,7 @@
 |`43`| [Landing Design Socially](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/43-landing-design-socially) | [Live Demo](https://landing-design-socially.netlify.app/)|
 |`44`| [Custom Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/44-custom-range-slider) | [Live Demo](https://custom-range-slider-js.netlify.app/)|
 |`45`| [Glassmorphism Product Card](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/45-glassmorphism-product-card) | [Live Demo](https://glassmorphism-product-card-css.netlify.app/)|
-|`46`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`46`| [Dropdown Menu User Account](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/46-dropdown-menu-user-account) | [Live Demo](https://dropdown-menu-user-account.netlify.app/)|
 |`47`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`48`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`49`| Content Cell | [Live Demo](https://pages.github.com/)|
