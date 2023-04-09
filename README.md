@@ -57,7 +57,7 @@
 |`45`| [Glassmorphism Product Card](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/45-glassmorphism-product-card) | [Live Demo](https://glassmorphism-product-card-css.netlify.app/)|
 |`46`| [Dropdown Menu User Account](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/46-dropdown-menu-user-account) | [Live Demo](https://dropdown-menu-user-account.netlify.app/)|
 |`47`| [https://github.com/x39OME/100_project_100_days/tree/main/100_projects/47-soundboard-javascript](Soundboard Javascript) | [Live Demo](https://soundboard-javascript-css.netlify.app/)|
-|`48`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`48`| [Animated Image Carousel](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/48-create-animated-image-carousel) | [Live Demo](https://animated-image-carousel-js.netlify.app/)|
 |`49`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`50`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`51`| Content Cell | [Live Demo](https://pages.github.com/)|
