@@ -58,7 +58,7 @@
 |`46`| [Dropdown Menu User Account](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/46-dropdown-menu-user-account) | [Live Demo](https://dropdown-menu-user-account.netlify.app/)|
 |`47`| [Soundboard Javascript](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/47-soundboard-javascript) | [Live Demo](https://soundboard-javascript-css.netlify.app/)|
 |`48`| [Animated Image Carousel](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/48-create-animated-image-carousel) | [Live Demo](https://animated-image-carousel-js.netlify.app/)|
-|`49`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`49`| [Test Notification Click](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/49-test-notification-click) | [Live Demo](https://test-notification-click.netlify.app/)|
 |`50`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`51`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`52`| Content Cell | [Live Demo](https://pages.github.com/)|
