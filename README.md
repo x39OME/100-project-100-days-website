@@ -62,7 +62,7 @@
 |`50`| [Line Through Effect](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/50-%E2%80%8Fline-through-effect) | [Live Demo](https://codepen.io/x39OME/pen/mdzeWeo)|
 |`51`| [Disney Movies Landing Page](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/51-disney-movies-landing-page) | [Live Demo](https://disney-movies-landing-page.netlify.app/)|
 |`52`| [Filter Images Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/52-filter-image-gallery) | [Live Demo](https://filter-image-gallery.netlify.app/)|
-|`53`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`53`| [Custom Checkbox Toggle Dark Light Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/53-custom-checkbox-toggle-dark-light-mode) | [Live Demo](https://custom-checkbox-toggle-dark-light.netlify.app/)|
 |`54`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`55`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`56`| Content Cell | [Live Demo](https://pages.github.com/)|
