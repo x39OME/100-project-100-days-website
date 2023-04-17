@@ -65,7 +65,7 @@
 |`53`| [Custom Checkbox Toggle Dark Light Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/53-custom-checkbox-toggle-dark-light-mode) | [Live Demo](https://custom-checkbox-toggle-dark-light.netlify.app/)|
 |`54`| [Traffic Lights](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/54-traffic-lights) | [Live Demo](https://codepen.io/x39OME/pen/GRYZBrm)|
 |`55`| [QR Code Generator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/55-qr-code-generator) | [Live Demo](https://qr-code-generator-html-css-js.netlify.app/)|
-|`56`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`56`| [Text Reveal Animation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/56-text-reveal-animation) | [Live Demo](https://text-reveal-animation-dark-mode.netlify.app/)|
 |`57`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`58`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`59`| Content Cell | [Live Demo](https://pages.github.com/)|
