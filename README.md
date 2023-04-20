@@ -67,7 +67,7 @@
 |`55`| [QR Code Generator](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/55-qr-code-generator) | [Live Demo](https://qr-code-generator-html-css-js.netlify.app/)|
 |`56`| [Text Reveal Animation](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/56-text-reveal-animation) | [Live Demo](https://text-reveal-animation-dark-mode.netlify.app/)|
 |`57`| [Password Validation Check In](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/57-password-validation-check-in) | [Live Demo](https://password-validation-check-in.netlify.app/)|
-|`58`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`58`| [Cloud Animation Banner](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/58-cloud-translate-banner-js) | [Live Demo](https://cloud-translate-banner-js.netlify.app/)|
 |`59`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`60`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`61`| Content Cell | [Live Demo](https://pages.github.com/)|
