@@ -69,7 +69,7 @@
 |`57`| [Password Validation Check In](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/57-password-validation-check-in) | [Live Demo](https://password-validation-check-in.netlify.app/)|
 |`58`| [Cloud Animation Banner](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/58-cloud-translate-banner-js) | [Live Demo](https://cloud-translate-banner-js.netlify.app/)|
 |`59`| [Season's Greetings Happy Eid 2023](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/59-season's-greetings-happy-eid-2023) | [Live Demo](https://seasons-greetings-happy-eid-2023.netlify.app/)|
-|`60`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`60`| [Eid Al-Fiter 2023](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/60-eid-al-fitr-2023) | [Live Demo](https://eid-al-fitr-2023.netlify.app/)|
 |`61`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`62`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`63`| Content Cell | [Live Demo](https://pages.github.com/)|
