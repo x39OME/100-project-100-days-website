@@ -1,6 +1,6 @@
 # 100 Projects In 100 Days Using HTML\CSS & Javascript
 
-- This is the main repository for all of the [projects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects)
+- This is the main repository for all of the [Projects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects)
 - 100 Days 100 Projects
 - Using HTML\CSS & Javascript
 - [Website Info](https://x39ome.github.io/100_project_100_days/)
