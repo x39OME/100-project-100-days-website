@@ -71,7 +71,7 @@
 |`59`| [Season's Greetings Happy Eid 2023](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/59-season's-greetings-happy-eid-2023) | [Live Demo](https://seasons-greetings-happy-eid-2023.netlify.app/)|
 |`60`| [Eid Al-Fiter 2023](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/60-eid-al-fitr-2023) | [Live Demo](https://eid-al-fitr-2023.netlify.app/)|
 |`61`| [A Message To Pass](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/61-a-message-to-pass) | [Live Demo](https://a-message-to-pass.netlify.app/)|
-|`62`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`62`| [Music Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/62-music-website) | [Live Demo](https://music-website-js.netlify.app/)|
 |`63`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`64`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`65`| Content Cell | [Live Demo](https://pages.github.com/)|
