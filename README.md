@@ -73,7 +73,7 @@
 |`61`| [A Message To Pass](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/61-a-message-to-pass) | [Live Demo](https://a-message-to-pass.netlify.app/)|
 |`62`| [Music Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/62-music-website) | [Live Demo](https://music-website-js.netlify.app/)|
 |`63`| [Card Hover Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/63-card-hover-effects) | [Live Demo](https://63-card-hover-effects.netlify.app/)|
-|`64`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`64`| [Responsive Glassmorphism Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/64-responsive-glassmorphism-website) | [Live Demo](https://responsive-glassmorphism-website.netlify.app/)|
 |`65`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`66`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`67`| Content Cell | [Live Demo](https://pages.github.com/)|
