@@ -76,7 +76,7 @@
 |`64`| [Responsive Glassmorphism Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/64-responsive-glassmorphism-website) | [Live Demo](https://responsive-glassmorphism-website.netlify.app/)|
 |`65`| [Burger Icon Transform Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/65-burger-icon-transform-effects) | [Live Demo](https://burger-icon-transform-effects.netlify.app/)|
 |`66`| [Type Writer Effect On Text](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/66-type-writer-effect-on-text) | [Live Demo](https://type-writer-effect-on-text.netlify.app/)|
-|`67`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`67`| [Product Card Shoes](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/67-product-card-shoes) | [Live Demo](https://product-card-shoes.netlify.app/)|
 |`68`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`69`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`70`| Content Cell | [Live Demo](https://pages.github.com/)|
