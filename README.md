@@ -77,7 +77,7 @@
 |`65`| [Burger Icon Transform Effects](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/65-burger-icon-transform-effects) | [Live Demo](https://burger-icon-transform-effects.netlify.app/)|
 |`66`| [Type Writer Effect On Text](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/66-type-writer-effect-on-text) | [Live Demo](https://type-writer-effect-on-text.netlify.app/)|
 |`67`| [Product Card Shoes](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/67-product-card-shoes) | [Live Demo](https://product-card-shoes.netlify.app/)|
-|`68`| [Price Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/68-price-range-slider) | [Live Demo](https://app.netlify.com/sites/price-range-slider/overview)|
+|`68`| [Price Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/68-price-range-slider) | [Live Demo](https://price-range-slider.netlify.app/)|
 |`69`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`70`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`71`| Content Cell | [Live Demo](https://pages.github.com/)|
