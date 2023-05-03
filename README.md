@@ -80,7 +80,7 @@
 |`68`| [Price Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/68-price-range-slider) | [Live Demo](https://price-range-slider.netlify.app/)|
 |`69`| [Design Airpods](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/69-design-airpods) | [Live Demo](https://design-airpods.netlify.app/)|
 |`70`| [Javascript Zoom Effect](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/70-javascript-zoom-effect) | [Live Demo](https://javascript-zoom-effect.netlify.app/)|
-|`71`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`71`| [Responsive Sidebar Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/71-responsive-sidebar-menu) | [Live Demo](https://responsive-sidebar-menu-js.netlify.app/)|
 |`72`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`73`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`74`| Content Cell | [Live Demo](https://pages.github.com/)|
