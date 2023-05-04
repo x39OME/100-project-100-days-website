@@ -81,7 +81,7 @@
 |`69`| [Design Airpods](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/69-design-airpods) | [Live Demo](https://design-airpods.netlify.app/)|
 |`70`| [Javascript Zoom Effect](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/70-javascript-zoom-effect) | [Live Demo](https://javascript-zoom-effect.netlify.app/)|
 |`71`| [Responsive Sidebar Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/71-responsive-sidebar-menu) | [Live Demo](https://responsive-sidebar-menu-js.netlify.app/)|
-|`72`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`72`| [Effects On Mousemove SketchJs](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/72-effects-on-mousemove-using-sketch.js) | [Live Demo](https://effects-on-mousemove-using-sketch.netlify.app/)|
 |`73`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`74`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`75`| Content Cell | [Live Demo](https://pages.github.com/)|
