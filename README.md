@@ -83,7 +83,7 @@
 |`71`| [Responsive Sidebar Menu](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/71-responsive-sidebar-menu) | [Live Demo](https://responsive-sidebar-menu-js.netlify.app/)|
 |`72`| [Effects On Mousemove SketchJs](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/72-effects-on-mousemove-using-sketch.js) | [Live Demo](https://effects-on-mousemove-using-sketch.netlify.app/)|
 |`73`| [Like And Dislike Using Javascript](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/73-like-and-dislike-using-javascript) | [Live Demo](https://like-and-dislike-using-javascript.netlify.app/)|
-|`74`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`74`| [Visual Counter](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/74-visual-counter) | [Live Demo](https://codepen.io/x39OME/pen/mdzXdar)|
 |`75`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`76`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`77`| Content Cell | [Live Demo](https://pages.github.com/)|
