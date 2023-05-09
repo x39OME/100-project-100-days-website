@@ -86,7 +86,7 @@
 |`74`| [Visual Counter](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/74-visual-counter) | [Live Demo](https://codepen.io/x39OME/pen/mdzXdar)|
 |`75`| [Cover Uncover An Image](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/75-cover-uncover-an-image) | [Live Demo](https://cover-uncover-an-image.netlify.app/)|
 |`76`| [Fetch API](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/76-fetch-api) | [Live Demo](https://codepen.io/x39OME/pen/XWxZQro)|
-|`77`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`77`| [Control Brightness](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/77-control-brightness) | [Live Demo](https://control-brightness.netlify.app/)|
 |`78`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`79`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`80`| Content Cell | [Live Demo](https://pages.github.com/)|
