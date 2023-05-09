@@ -5,10 +5,8 @@
 }
 .container{
   background: url(bg.jpg) no-repeat center;
-  min-height: 100vh;
-  width: 100%;
+  height: 100vh;
   background-size: cover;
-  background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -28,7 +26,7 @@
 }
 #range{
   width: 100%;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   background: #0a85ff;
   height: 3px;
   outline: none;
