@@ -88,7 +88,7 @@
 |`76`| [Fetch API](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/76-fetch-api) | [Live Demo](https://codepen.io/x39OME/pen/XWxZQro)|
 |`77`| [Control Brightness](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/77-control-brightness) | [Live Demo](https://control-brightness.netlify.app/)|
 |`78`| [Product Card Nike](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/78-product-card) | [Live Demo](https://product-card-nike.netlify.app/)|
-|`79`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`79`| [Starbucks Landing](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/79-starbucks-landing) | [Live Demo](https://starbucks-landing-js.netlify.app/)|
 |`80`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`81`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`82`| Content Cell | [Live Demo](https://pages.github.com/)|
