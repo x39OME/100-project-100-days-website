@@ -91,7 +91,7 @@
 |`79`| [Starbucks Landing](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/79-starbucks-landing) | [Live Demo](https://starbucks-landing-js.netlify.app/)|
 |`80`| [Simple Countdown Timer](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/80-simple-countdown-timer) | [Live Demo](https://simple-countdown-timer-end-2025.netlify.app/)|
 |`81`| [Emoji Range Slider](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/81-emoji-range-slider) | [Live Demo](https://emoji-range-slider.netlify.app/)|
-|`82`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`82`| [Explore Developer Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/82-explore-developer-website) | [Live Demo](https://explore-developer-website.netlify.app/)|
 |`83`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`84`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`85`| Content Cell | [Live Demo](https://pages.github.com/)|
