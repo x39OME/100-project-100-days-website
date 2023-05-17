@@ -196,11 +196,14 @@ section .navigation li a:hover{
   background: #111;
   color: #fff;
   letter-spacing: 10px;
-  text-transform: lowercase;
+  text-transform: none;
 }
 @media (max-width:991px){
   header{
     padding: 20px;
+  }
+  header .logo{
+    font-size:3vh
   }
   section .sci{
     bottom: 20px;
@@ -210,10 +213,10 @@ section .navigation li a:hover{
     width: 60%;
   }
   section .content h2{
-    font-size: 16vh;
+    font-size: 11vh;
   }
   section .content h2 span{
-    font-size: .22em;
+    font-size: .12em;
     letter-spacing: 2px;
     padding: 0 5px;
   }
