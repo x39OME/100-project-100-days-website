@@ -94,7 +94,7 @@
 |`82`| [Explore Developer Website](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/82-explore-developer-website) | [Live Demo](https://explore-developer-website.netlify.app/)|
 |`83`| [Games Sign In Login Form](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/83-games-sign-in-login-form) | [Live Demo](https://games-sign-in-login-form.netlify.app/)|
 |`84`| [Eyes Follow Mouse](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/84-eyes-follow-mouse) | [Live Demo](https://eyes-follow-mouse-js.netlify.app/)|
-|`85`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`85`| [Responsive 404 Page Not Found](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/85-responsive-404-page-not-found) | [Live Demo](https://responsive-404-page-not-found.netlify.app/)|
 |`86`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`87`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`88`| Content Cell | [Live Demo](https://pages.github.com/)|
