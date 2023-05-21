@@ -100,7 +100,7 @@
 |`86`| [White Snow Rain](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/86-white-snow-rain) | [Live Demo](https://white-snow-rain.netlify.app/)|
 |`87`| [Video Game Valorant](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/87-video-game-valorant) | [Live Demo](https://video-game-valorant.netlify.app/)|
 |`88`| [Animated Website Bubble](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/88-animated-website-bubble) | [Live Demo](https://animated-bubble-website.netlify.app/)|
-|`89`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`89`| [Menu Dashboard With Dark Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/89-menu-dashboard-with-dark-mode) | [Live Demo](https://menu-dashboard-with-dark-mode.netlify.app/)|
 |`90`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`91`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`92`| Content Cell | [Live Demo](https://pages.github.com/)|
