@@ -102,7 +102,7 @@
 |`88`| [Animated Website Bubble](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/88-animated-website-bubble) | [Live Demo](https://animated-bubble-website.netlify.app/)|
 |`89`| [Menu Dashboard With Dark Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/89-menu-dashboard-with-dark-mode) | [Live Demo](https://menu-dashboard-with-dark-mode.netlify.app/)|
 |`90`| [Model Landing Page](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/90-model-landing-page) | [Live Demo](https://model-landing-page.netlify.app/)|
-|`91`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`91`| [Rotating Image Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/91-rotating-image-gallery) | [Live Demo](https://rotating-image-gallery-js.netlify.app/)|
 |`92`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`93`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`94`| Content Cell | [Live Demo](https://pages.github.com/)|
