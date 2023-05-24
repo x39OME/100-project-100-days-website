@@ -103,7 +103,7 @@
 |`89`| [Menu Dashboard With Dark Mode](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/89-menu-dashboard-with-dark-mode) | [Live Demo](https://menu-dashboard-with-dark-mode.netlify.app/)|
 |`90`| [Model Landing Page](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/90-model-landing-page) | [Live Demo](https://model-landing-page.netlify.app/)|
 |`91`| [Rotating Image Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/91-rotating-image-gallery) | [Live Demo](https://rotating-image-gallery-js.netlify.app/)|
-|`92`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`92`| [Video Movie Popup](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/92-video-movie-popup) | [Live Demo](https://video-movie-popup.netlify.app/)|
 |`93`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`94`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`95`| Content Cell | [Live Demo](https://pages.github.com/)|
