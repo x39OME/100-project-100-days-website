@@ -104,7 +104,7 @@
 |`90`| [Model Landing Page](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/90-model-landing-page) | [Live Demo](https://model-landing-page.netlify.app/)|
 |`91`| [Rotating Image Gallery](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/91-rotating-image-gallery) | [Live Demo](https://rotating-image-gallery-js.netlify.app/)|
 |`92`| [Video Movie Popup](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/92-video-movie-popup) | [Live Demo](https://video-movie-popup.netlify.app/)|
-|`93`| [Expanding Cards]((https://github.com/x39OME/100_project_100_days/tree/main/100_projects/93-expanding-cards) | [Live Demo](https://93-expanding-cards.netlify.app/)|
+|`93`| [Expanding Cards](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/93-expanding-cards) | [Live Demo](https://93-expanding-cards.netlify.app/)|
 |`94`| [Emoji Star Rating](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/94-emoji-star-rating) | [Live Demo](https://emoji-star-rating.netlify.app/)|
 |`95`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`96`| Content Cell | [Live Demo](https://pages.github.com/)|
@@ -113,13 +113,12 @@
 |`99`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`100`| Content Cell | [Live Demo](https://pages.github.com/)|
 
-## Time
-- Start 2-21-2023
-- End 
+
 
 
 ## Note
-
+- This Challenge Started At `2-21-2023`
+- End 
 
 
 ## License
