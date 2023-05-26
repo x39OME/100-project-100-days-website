@@ -117,7 +117,7 @@
 
 
 ## Note
-- This Challenge Started At `2-21-2023`
+- This Challenge Started At `Wed, Feb 22, 2023`
 - End 
 
 
