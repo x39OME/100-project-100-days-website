@@ -106,7 +106,7 @@
 |`92`| [Video Movie Popup](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/92-video-movie-popup) | [Live Demo](https://video-movie-popup.netlify.app/)|
 |`93`| [Expanding Cards](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/93-expanding-cards) | [Live Demo](https://93-expanding-cards.netlify.app/)|
 |`94`| [Emoji Star Rating](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/94-emoji-star-rating) | [Live Demo](https://emoji-star-rating.netlify.app/)|
-|`95`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`95`| [Section Landing Page](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/95-section-landing-page) | [Live Demo](https://section-landing-page-js.netlify.app/)|
 |`96`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`97`| Content Cell | [Live Demo](https://pages.github.com/)|
 |`98`| Content Cell | [Live Demo](https://pages.github.com/)|
