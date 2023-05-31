@@ -110,7 +110,7 @@
 |`96`| [Pagination Glassmorphism Animated](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/96-pagination-glassmorphism-animated) | [Live Demo](https://pagination-glassmorphism-animated.netlify.app/)|
 |`97`| [Weather Glassmorphism Card](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/97-weather-glassmorphism) | [Live Demo](https://97-weather-glassmorphism.netlify.app/)|
 |`98`| [Sushi Day Components](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/98-sushi-day-components) | [Live Demo](https://sushi-day-components.netlify.app/)|
-|`99`| Content Cell | [Live Demo](https://pages.github.com/)|
+|`99`| [Landing Page Fashion](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/99-landing-page-fashion) | [Live Demo](https://landing-page-fashion.netlify.app/)|
 |`100`| Content Cell | [Live Demo](https://pages.github.com/)|
 
 
