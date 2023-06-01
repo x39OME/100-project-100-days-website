@@ -112,6 +112,8 @@
 |`98`| [Sushi Day Components](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/98-sushi-day-components) | [Live Demo](https://sushi-day-components.netlify.app/)|
 |`99`| [Landing Page Fashion](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/99-landing-page-fashion) | [Live Demo](https://landing-page-fashion.netlify.app/)|
 |`100`| [Background Video Pause & Play](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/100-background-video-pause-%26-play) | [Live Demo](https://background-video-pause-and-play.netlify.app/)|
+|`101`| [--]() | [Live Demo]()|
+
 
 ## 100 projects are completed
 
@@ -123,7 +125,8 @@ All of these projects are part of the my level development and some projects are
 
 - This Challenge Started At `Wed, Feb 22, 2023`
 - End At `Thur, June 1, 2023`
-
+- This Project Will Not Stop
+- In The Future, I Will Add New Projects
 
 ## License
 
