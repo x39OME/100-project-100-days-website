@@ -113,7 +113,7 @@
 |`99`| [Landing Page Fashion](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/99-landing-page-fashion) | [Live Demo](https://landing-page-fashion.netlify.app/)|
 |`100`| [Background Video Pause & Play](https://github.com/x39OME/100_project_100_days/tree/main/100_projects/100-background-video-pause-%26-play) | [Live Demo](https://background-video-pause-and-play.netlify.app/)|
 
-# 100 projects are completed
+## 100 projects are completed
 
 ![This main img](https://github.com/x39OME/100_project_100_days/blob/main/img/end.PNG)
 
