@@ -5,6 +5,9 @@
 - Using HTML\CSS & Javascript
 - [Website Info](https://x39ome.github.io/100_project_100_days/)
 
+### Preview Project
+
+<img src="100_projects_100_days.png" alt="Preview Project" />
 
 ![This main img](https://raw.githubusercontent.com/x39OME/100_project_100_days/main/img/main.jpg)
 
